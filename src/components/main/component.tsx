@@ -22,7 +22,7 @@ export const Main = () => (
       </p>
     </article>
     <article className="main__usp">
-      <h3>Thinker</h3>
+      <h3>Consultant</h3>
       <p>
         I will always try and think of improvements that can be made in a project or codebase. These
         could be performance improvements, introducing new technologies, or setting up documentation

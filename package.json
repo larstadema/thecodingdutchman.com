@@ -1,7 +1,7 @@
 {
   "name": "thecodingdutchman.com",
   "version": "0.1.0",
-  "homepage": "https://larstadema.github.io/thecodingdutchman.com/",
+  "homepage": "https://thecodingdutchman.com/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
